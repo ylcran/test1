@@ -15,6 +15,7 @@ public class ThreadSwing extends JFrame {
 	public int i;
 	private JLabel jl = new JLabel();
 	
+	
 	ThreadSwing(){
 		setBounds(300, 200, 250, 100);
 		ct.setLayout(null);
