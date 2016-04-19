@@ -9,5 +9,5 @@ public class ThreadTest1 extends Thread {
 		new ThreadTest1().start();
 	}
 	
-
+	
 }
